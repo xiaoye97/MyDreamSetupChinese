@@ -1,0 +1,2 @@
+# MyDreamSetupChinese
+MyDreamSetup汉化
